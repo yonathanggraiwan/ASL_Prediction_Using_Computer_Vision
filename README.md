@@ -17,12 +17,12 @@
 - [URL Dataset](https://www.kaggle.com/datasets/signnteam/asl-sign-language-pictures-minus-j-z)
 
 ## Method
-`This project uses a deep learning approach with CNN-based models. The process includes:
+This project uses a deep learning approach with CNN-based models. The process includes:
 1. Baseline modeling with a simple ANN
 2. Transfer learning with an AlexNet-inspired architecture
 3. Data preprocessing: image resizing (227×227), normalization, and augmentation
 4. Model training with dropout, batch normalization, and adaptive learning rate
-5. Evaluation through accuracy/loss plots, classification report, and inference testing.`
+5. Evaluation through accuracy/loss plots, classification report, and inference testing.
 
 ## Stacks
 - Programming: Python
