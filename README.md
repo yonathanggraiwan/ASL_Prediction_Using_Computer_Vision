@@ -27,9 +27,7 @@ This project uses a deep learning approach with CNN-based models. The process in
 ## Stacks
 - Programming: Python
 - Libraries: TensorFlow, Keras, NumPy, Matplotlib, scikit-learn
-- Modeling Tools: Keras Sequential API, tf.data pipeline
 - Evaluation: Classification report, confusion matrix, accuracy/loss visualization
-- Development Environment: Jupyter Notebook
 
 ## Reference
 The supporting link for the results of this project analysis can be found in the streamlit below:
