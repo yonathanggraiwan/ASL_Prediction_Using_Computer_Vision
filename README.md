@@ -32,9 +32,8 @@ This project uses a deep learning approach with CNN-based models. The process in
 - Development Environment: Jupyter Notebook
 
 ## Reference
-`The supporting link for the results of this project analysis can be found in the following presentation link:`
-- [Presentation Link](https://www.canva.com/design/DAGse7cQJgc/r2NPH6bN9tA5sfi5i0x6rQ/edit?utm_content=DAGse7cQJgc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+`The supporting link for the results of this project analysis can be found in the streamlit below:`
+- [Dashboard Link]([https://asl-hand-language-classification-rvpishere.streamlit.app/](https://asl-hand-language-classification-rvpishere.streamlit.app/))
 ---
 
 **Additional Information:**
