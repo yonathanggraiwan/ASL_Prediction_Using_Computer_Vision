@@ -10,10 +10,10 @@
 I am a Data Engineer developing a computer vision program powered by an **Artificial Neural Network (ANN)** for a public service organization. The core task of this project is to build a model that can recognize images or objects representing **sign language gestures**, specifically from the **American Sign Language (ASL)** system.
 
 ## Project Output
-`The output of my project is model to predict ASL using Computer Vision.`
+The output of my project is model to predict ASL using Computer Vision.
 
 ## Data
-`The dataset used in this project comes from Kaggle. This dataset consists of images of American Sign Language (ASL) gestures, representing 24 alphabet letters ranging from A to Z, excluding the letters J and Z.`
+The dataset used in this project comes from Kaggle. This dataset consists of images of American Sign Language (ASL) gestures, representing 24 alphabet letters ranging from A to Z, excluding the letters J and Z.
 - [URL Dataset](https://www.kaggle.com/datasets/signnteam/asl-sign-language-pictures-minus-j-z)
 
 ## Method
@@ -32,7 +32,7 @@ This project uses a deep learning approach with CNN-based models. The process in
 - Development Environment: Jupyter Notebook
 
 ## Reference
-`The supporting link for the results of this project analysis can be found in the streamlit below:`
+The supporting link for the results of this project analysis can be found in the streamlit below:
 - [Dashboard Link]([https://asl-hand-language-classification-rvpishere.streamlit.app/](https://asl-hand-language-classification-rvpishere.streamlit.app/))
 ---
 
