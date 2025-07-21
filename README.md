@@ -7,7 +7,7 @@
 ```
 
 ## Problem Background
-`I am a Data Engineer developing a computer vision program powered by an **Artificial Neural Network (ANN)** for a public service organization. The core task of this project is to build a model that can recognize images or objects representing **sign language gestures**, specifically from the **American Sign Language (ASL)** system.`
+I am a Data Engineer developing a computer vision program powered by an **Artificial Neural Network (ANN)** for a public service organization. The core task of this project is to build a model that can recognize images or objects representing **sign language gestures**, specifically from the **American Sign Language (ASL)** system.
 
 ## Project Output
 `The output of my project is model to predict ASL using Computer Vision.`
