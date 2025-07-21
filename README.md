@@ -33,7 +33,7 @@ This project uses a deep learning approach with CNN-based models. The process in
 
 ## Reference
 The supporting link for the results of this project analysis can be found in the streamlit below:
-- [Dashboard Link]([https://asl-hand-language-classification-rvpishere.streamlit.app/](https://asl-hand-language-classification-rvpishere.streamlit.app/))
+- [Dashboard Link](https://asl-hand-language-classification-rvpishere.streamlit.app/)
 ---
 
 **Additional Information:**
