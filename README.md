@@ -3,7 +3,7 @@
 ## Repository Outline
 ```
 - README(description).md | Overview of the project description.
-- P2M3_Yonathan_Anggraiwan_GX.ipynb | This notebook containing the codes,explanation of data analysis and prediction result from the models.
+- ASL_Prediction_Using_Computer_Vision.ipynb | This notebook containing the codes,explanation of data analysis and prediction result from the models.
 ```
 
 ## Problem Background
